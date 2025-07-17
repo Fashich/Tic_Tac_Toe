@@ -1,0 +1,20 @@
+# Features Set:
+## Multiple Game Modes:
+1. Al opponents (4 difficulty levels)
+2. Local multiplayer
+3. Online private rooms with codes
+4. Public matchmaking
+5. Smart Al: Minimax algorithm with alpha-beta pruning
+6. Real-time Multiplayer: Socket.IO for live online games
+7. Mobile Responsive: Touch-friendly controls for all devices
+
+## Game Persistence: Save/load games with full history
+## Interactive Tutorial: Learn-by-doing tutorial system
+## Game Statistics: Track wins, losses, and game history
+## game modes:
+a. Tutorial - Learn the game interactively
+b. Play vs Al - Challenge the computer (Easy, Medium, Hard, Expert)
+c. Play vs Friend - Local multiplayer on same device
+d. Create Online Room - Private games with 6-character room codes
+e. Join Room - Enter friend's room code to join their game
+f. Public Match - Play with random players online

@@ -1,4 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Core Features
+
+## Multiplayer Game Modes
+
+1. AI Opponents : 4 difficulty levels (Easy, Medium, Hard, Expert)
+2. Local Play : Hotseat mode for shared-device gameplay
+3. Online Play :
+a. Private rooms with 6-character access codes
+b. Public matchmaking system
+c. Real-time multiplayer
+d. Mobile-Optimized : Fully responsive design with touch-friendly controls
+
+## Player Experience
+
+1. Persistent Game State : Save/load functionality with full move history
+2. Interactive Tutorial : Guided learning system with hands-on practice
+3. Statistics Dashboard : Track wins/losses, analyze game history, and monitor progress
+
+## Technical Architecture
+
+1. Framework : Next.js with App Router and Server Components
+2. Styling : Tailwind CSS v4 with optimized utility classes
+3. Real-Time Communication for live gameplay synchronization
+4. AI Engine : Minimax algorithm with alpha-beta pruning optimization
+5. Font Optimization : Self-hosted Geist typeface via next/font
+6. State Management : React Context API with Zustand integration
+
+## This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app)
 
 ## Getting Started
 
