@@ -19,7 +19,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body className={inter.className}
+      hix-version="3.1.8"
+      hix-id="njggknpmkjapgklcfhaiigafiiebpchm">
         <AuthProvider>
           <GameProvider>
             {children}
