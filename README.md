@@ -29,6 +29,12 @@ d. Mobile-Optimized : Fully responsive design with touch-friendly controls
 
 ## Getting Started
 
+First, run installation Module Dependencies:
+
+```bash
+npm install lucide-react class-variance-authority @radix-ui/react-slot @radix-ui/react-dialog @radix-ui/react-label @radix-ui/react-select clsx tailwind-merge sonner next-themes
+```
+
 First, run the development server:
 
 ```bash
